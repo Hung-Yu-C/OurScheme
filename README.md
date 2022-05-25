@@ -1,4 +1,4 @@
-# OurScheme-interpreter
+# OurScheme
 此專題為中原大學資訊工程系「程式語言」的專題作業<br>
 全部專題包含四個部分，而在這裡放上第兩個部分<br>
 Project 1<br>
